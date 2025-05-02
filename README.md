@@ -25,8 +25,8 @@ Here are the languages I've got working:
 ### Setting Up
 1. First, clone this repo:
 ```bash
-git clone <repository>
-cd <repository-directory>
+git clone https://github.com/1katuramu/internship-assessment.git
+cd internship-assessment
 ```
 
 2. Set up your Python environment:
